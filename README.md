@@ -19,7 +19,7 @@ This tutorial outlines the steps to successfully create a Virtual Machine using 
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Create an Azure Subscription
+- Create an Azure Subscription (https://azure.microsoft.com/en-us/free)
 - Create New Resource Group
 - Create Virtual Machine
 - Use Remote Desktop to start up Virtual Machine
